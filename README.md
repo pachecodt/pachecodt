@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![test](https://vistr.dev/badge?repo=Pachedodt.Pachecodt)
+[![](https://vistr.dev/badge?repo=elfocrash.Pachecodt&corners=square)](https://github.com/Pachecodt/vistr.dev)
 
 <!--
 **pachecodt/pachecodt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
