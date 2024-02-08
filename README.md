@@ -1,4 +1,10 @@
-[![](https://vistr.dev/badge?repo=elfocrash.Pachecodt&corners=square)](https://github.com/Pachecodt/vistr.dev)
+### Hey 👋, I'm Felipe
+
+[![](https://vistr.dev/badge?repo=pachecodt.pachecodt&corners=square)](https://github.com/pachecodt/vistr.dev)
+[![](https://img.shields.io/badge/-@pachecodt-%23181717?style=flat-square&logo=github)](https://github.com/pachecodt)
+[![](https://img.shields.io/badge/-Felipe%20Pacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipepachecosa/)](https://www.linkedin.com/in/felipepachecosa/)
+
+
 
 <!--
 **pachecodt/pachecodt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
