@@ -4,7 +4,9 @@
 [![](https://img.shields.io/badge/-@pachecodt-%23181717?style=flat-square&logo=github)](https://github.com/pachecodt)
 [![](https://img.shields.io/badge/-Felipe%20Pacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipepachecosa/)](https://www.linkedin.com/in/felipepachecosa/)
 
-
+<a href="https://github.com/Pachecodt/Pachecodt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pachecodt&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
 
 <!--
 **pachecodt/pachecodt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
