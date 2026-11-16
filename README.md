@@ -45,8 +45,8 @@ My toolkit spans backend and frontend development, with a particular focus on th
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pachecodt&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Felipe's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecodt&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=pachecodt&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Felipe's GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pachecodt&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pachecodt&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
