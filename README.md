@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:6D28D9&height=210&section=header&text=Felipe%20Pacheco&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20.NET&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Felipe Pacheco — Software Developer, Backend and .NET" />
+<img src="https://raw.githubusercontent.com/pachecodt/pachecodt/main/assets/profile-banner.svg" width="100%" alt="Felipe Pacheco — Software Developer, Backend, C# and .NET" />
 
 ### Building reliable software, one solution at a time.
 
@@ -67,7 +67,5 @@ Backend-focused developer interested in **C#**, **.NET**, API development and so
 <div align="center">
 
 *Thanks for stopping by. Feel free to connect.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1D4ED8&height=3&section=footer" width="100%" alt="" />
 
 </div>
