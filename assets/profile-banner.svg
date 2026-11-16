@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Felipe Pacheco — Software Developer</title>
+  <desc id="desc">Dark blue and violet abstract technology banner with the text Backend and .NET.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset=".52" stop-color="#173b78"/>
+      <stop offset="1" stop-color="#54258b"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#60a5fa" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#c4b5fd" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#dbeafe" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <circle cx="1010" cy="65" r="210" fill="#8b5cf6" opacity=".13"/>
+  <circle cx="1080" cy="260" r="190" fill="#38bdf8" opacity=".10"/>
+  <path d="M650 245 C800 145 930 315 1200 115" fill="none" stroke="url(#glow)" stroke-width="3"/>
+  <path d="M690 275 C850 165 1000 325 1220 145" fill="none" stroke="#bfdbfe" stroke-opacity=".22" stroke-width="1.5"/>
+  <g fill="none" stroke="#bfdbfe" stroke-opacity=".26" stroke-width="2">
+    <path d="M890 92l28-16 28 16v32l-28 16-28-16z"/>
+    <path d="M974 142l28-16 28 16v32l-28 16-28-16z"/>
+    <path d="M1058 92l28-16 28 16v32l-28 16-28-16z"/>
+    <path d="M890 192l28-16 28 16v32l-28 16-28-16z"/>
+  </g>
+  <g fill="#dbeafe" opacity=".65">
+    <circle cx="850" cy="52" r="3"/><circle cx="1140" cy="55" r="3"/><circle cx="1155" cy="230" r="2"/>
+    <circle cx="780" cy="225" r="2"/><circle cx="1080" cy="265" r="3"/>
+  </g>
+  <text x="82" y="132" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-.8">Felipe Pacheco</text>
+  <rect x="84" y="158" width="58" height="4" rx="2" fill="#93c5fd"/>
+  <text x="82" y="204" fill="#e0e7ff" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="500">Software Developer</text>
+  <text x="82" y="242" fill="#bfdbfe" font-family="Segoe UI, Arial, sans-serif" font-size="20">Backend  •  C#  •  .NET</text>
+</svg>
