@@ -1,51 +1,68 @@
-# 👋 Hey there! I'm Felipe Pacheco
+<div align="center">
 
-## 🌐 Connect with Me
+# Felipe Pacheco
 
-[![](https://vistr.dev/badge?repo=pachecodt.pachecodt&corners=square)](https://github.com/pachecodt/vistr.dev)
-[![GitHub](https://img.shields.io/badge/-@pachecodt-%23181717?style=flat-square&logo=github)](https://github.com/pachecodt)
-[![LinkedIn](https://img.shields.io/badge/-Felipe%20Pacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipepachecosa/)](https://www.linkedin.com/in/felipepachecosa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://felipe-pacheco-sa.netlify.app/)
+### Software Developer · Backend & Full Stack
 
-## 🛠️ Tech Stack
+Building useful software with clean, maintainable code.
 
-### Programming Languages
+[![GitHub](https://img.shields.io/badge/GitHub-@pachecodt-181717?style=flat-square&logo=github)](https://github.com/pachecodt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Pacheco-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipepachecosa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://felipe-pacheco-sa.netlify.app/)
 
-<a href="https://github.com/Pachecodt/Pachecodt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pachecodt&&hide=jupyter%20notebook,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
+</div>
 
+---
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## About
 
-### Frameworks & Technologies
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+I'm Felipe, a software developer interested in building reliable applications and solving problems through technology.
 
-### 🙏 Thanks for visiting my profile!
+My toolkit spans backend and frontend development, with a particular focus on the .NET ecosystem and experience exploring different languages and frameworks.
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+- 💻 Main focus: **C# and .NET**
+- 🧩 Interested in: **Backend development, APIs and software architecture**
+- 🌱 Always learning and improving
+- 🤝 Open to connecting with other developers and sharing ideas
 
-**Happy Coding!** 🚀
+## Tech Stack
 
+**Languages**
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<!--
-**pachecodt/pachecodt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frameworks & Platforms**
 
-Here are some ideas to get you started:
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pachecodt&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Felipe's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecodt&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pachecodt&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## Featured Work
+
+Take a look at my repositories to explore what I'm building and experimenting with.
+
+[![Repositories](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github)](https://github.com/pachecodt?tab=repositories)
+
+---
+
+<div align="center">
+
+**Thanks for stopping by!**  
+Feel free to connect or explore my work.
+
+</div>
