@@ -2,67 +2,71 @@
 
 # Felipe Pacheco
 
-### Software Developer · Backend & Full Stack
+**Software Developer | Backend & .NET**
 
-Building useful software with clean, maintainable code.
+Designing and building practical software solutions with a focus on maintainability, integration and clean code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@pachecodt-181717?style=flat-square&logo=github)](https://github.com/pachecodt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Pacheco-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipepachecosa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipepachecosa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://felipe-pacheco-sa.netlify.app/)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I'm Felipe, a software developer interested in building reliable applications and solving problems through technology.
+I'm a software developer with a strong interest in backend engineering and the .NET ecosystem. I enjoy solving practical problems, integrating services and building applications that are clear, reliable and maintainable.
 
-My toolkit spans backend and frontend development, with a particular focus on the .NET ecosystem and experience exploring different languages and frameworks.
+**Areas of interest**
+- Backend development and API design
+- C# and .NET application development
+- Software architecture and maintainable systems
+- Service integration and automation
 
-- 💻 Main focus: **C# and .NET**
-- 🧩 Interested in: **Backend development, APIs and software architecture**
-- 🌱 Always learning and improving
-- 🤝 Open to connecting with other developers and sharing ideas
+## Technology
 
-## Tech Stack
+**Core**
 
-**Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+**Also work with**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frameworks & Platforms**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-## GitHub Overview
+## Selected Projects
+
+### [Correios.Net](https://github.com/pachecodt/Correios.Net)
+A .NET library focused on simplifying integration with Brazilian postal services, including CEP address lookup and structured address results.
+
+**Focus:** .NET · Library development · Service integration
+
+### [PesquisaCep](https://github.com/pachecodt/PesquisaCep)
+A small online CEP lookup application that returns address information from a postal code.
+
+**Focus:** Application development · Address lookup
+
+Explore more work in my [public repositories](https://github.com/pachecodt?tab=repositories).
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=pachecodt&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Felipe's GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=pachecodt&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub account statistics" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pachecodt&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pachecodt&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
 </div>
-
-## Featured Work
-
-Take a look at my repositories to explore what I'm building and experimenting with.
-
-[![Repositories](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github)](https://github.com/pachecodt?tab=repositories)
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by!**  
-Feel free to connect or explore my work.
+Thanks for visiting. Feel free to connect with me or explore my repositories.
 
 </div>
