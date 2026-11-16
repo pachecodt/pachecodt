@@ -14,30 +14,11 @@ Backend-focused developer interested in **C#**, **.NET**, API development and so
 
 ---
 
-## What I focus on
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Backend engineering**
+## Backend engineering
 
 - C# and .NET development
 - REST API design and development
 - Service and system integration
-
-</td>
-<td width="50%" valign="top">
-
-**Software craftsmanship**
-
-- Maintainable and readable code
-- Practical problem solving
-- Automation and continuous improvement
-
-</td>
-</tr>
-</table>
 
 ## Technology
 
